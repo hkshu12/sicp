@@ -1,7 +1,7 @@
 ; 1.10.rkt
 #lang sicp
 
-; Exercise 1.10: The following procedure computes a mathematical function called Ackermann’s function.
+; Exercise 1.10: The following procedure computes a mathematical function called Ackermannâ€™s function.
 
 (define (A x y)
   (cond ((= y 0) 0)
